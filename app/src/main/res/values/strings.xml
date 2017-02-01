@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mp3AppA1</string>
+    <string name="App1textView1String">When you click on the Hotel button below, you will send a broadcast intent to App 2 and 3.
+        The matching receiver in App2 will display Hotel toast message on screen.
+        Later the matching receiver in App3 will display hotel fragments</string>
+    <string name="App1button1String">Start Hotel Intent !</string>
+    <string name="App1textView2String">When you click on the Restaurant button below, you will send a broadcast intent to App 2 and 3.
+        The matching receiver in App2 will display Restaurant toast message on screen.
+    Later the matching receiver in App3 will display Restaurant fragments</string>
+    <string name="App1button2String">Start Restaurant Intent !</string>
+</resources>
